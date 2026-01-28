@@ -227,8 +227,8 @@ Insurance agents manage hundreds of client relationships. Context gets lost.
 
       ### Gmail
       - Auto-extract client interactions from emails
-      - - Log correspondence with timestamps
-        - - Track response rates
+      - Log correspondence with timestamps
+       - Track response rates
          
           - ### Calendar
           - - Sync meeting schedules
@@ -246,17 +246,15 @@ Insurance agents manage hundreds of client relationships. Context gets lost.
 
                       From the article that inspired this project:
 
-                      > "The industry has normalized storing our data in someone else's database... We're paying twice."
+     "The industry has normalized storing our data in someone else's database... We're paying twice."
                       >
                       > **Benefits:**
-                      > - Full context control - you decide what the AI sees
-                      > - - Zero vendor lock-in - your client data stays yours
-                      >   - - Query with SQL - build dashboards, run analytics
-                      >     - - Compliance ready - data residency in Turkey
-                      >       - - Self-learning - track which briefs led to closed policies
-                      >        
-                      >         - ---
-                      >
+ - Full context control - you decide what the AI sees
+ - Zero vendor lock-in - your client data stays yours
+ - Query with SQL - build dashboards, run analytics
+ - Compliance ready - data residency in Turkey
+ - Self-learning - track which briefs led to closed policies
+   
                       > ## Project Structure
                       >
                       > ```
