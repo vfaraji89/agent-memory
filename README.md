@@ -230,23 +230,18 @@ Insurance agents manage hundreds of client relationships. Context gets lost.
       - Log correspondence with timestamps
        - Track response rates
          
-          - ### Calendar
-          - - Sync meeting schedules
-            - - Auto-generate pre-meeting briefs
-              - - Set renewal reminders
+      ### Calendar
+        -Sync meeting schedules
+       - Auto-generate pre-meeting briefs
+       -  Set renewal reminders
                
-                - ### Drive
-                - - Store policy documents
-                  - - Link contracts to client records
-                    - - Version tracking for proposals
+       - ### Drive
+       - - Store policy documents
+       - - Link contracts to client records
+        - - Version tracking for proposals
                      
                       - ---
 
-                      ## Why Own Your Database
-
-                      From the article that inspired this project:
-
-     "The industry has normalized storing our data in someone else's database... We're paying twice."
                       >
                       > **Benefits:**
  - Full context control - you decide what the AI sees
