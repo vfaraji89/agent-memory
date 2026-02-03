@@ -2,7 +2,7 @@
 
 Context-aware AI assistant for insurance agents at Prixs, Istanbul.
 
-**For:** Insurance teams managing health, auto, home, and life policies across Turkey.
+**For:** As ACME Company Insurance teams managing health, auto, home, and life policies across Turkey.
 
 ---
 
