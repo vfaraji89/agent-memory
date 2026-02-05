@@ -11,9 +11,9 @@ Context-aware AI assistant for insurance agents at Prixs, Istanbul.
 Insurance agents manage hundreds of client relationships. Context gets lost.
 
 - Agent scrambles through emails, spreadsheets, and notes before client meetings
-- - "What policy did we discuss last time?"
-  - - "Did they have concerns about premium pricing?"
-    - - "What's their family situation for life insurance?"
+  "What policy did we discuss last time?"
+  "Did they have concerns about premium pricing?"
+  "What's their family situation for life insurance?"
      
       - **Result:** Clients repeat themselves. Agents miss upsell opportunities. Knowledge walks out when agents leave.
      
